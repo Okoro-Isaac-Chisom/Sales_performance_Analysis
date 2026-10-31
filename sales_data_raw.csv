@@ -1,0 +1,513 @@
+order_id,order_date,customer_name,city,product,category,quantity,unit_price,payment_method,customer_age,delivery_status,rating
+ORD1000,2025-02-11,Daniel Okon,Uyo,Laptop,Electronics,4,450000,Card,32.0,Delivered,3.0
+ORD1001,2025-08-26,Ibrahim Effiong, Port Harcourt ,Pen Pack,Stationery,4,1200,Cash,57.0,Delivered,5.0
+ORD1002,2025-12-18,Emeka Obi,Uyo,Notebook,Stationery,5,1500,Transfer,,Delivered,5.0
+ORD1003,2025-11-13,Daniel Nwosu,Uyo,Office Chair,Furniture,5,65000,Card,38.0,Delivered,2.0
+ORD1004,2025-04-11,Joy Nwosu,Lagos,Office Chair,Furniture,4,65000,Card,55.0,Cancelled,
+ORD1005,2025-06-15,Tunde Johnson,port harcourt,Backpack,Accessories,2,15000,POS,62.0,Delivered,5.0
+ORD1006,2025-07-13,Tunde Eze,Calabar,Laptop,Electronics,3,450000,POS,29.0,Pending,5.0
+ORD1007,2025-04-01,Ibrahim Effiong,Port Harcourt,Notebook,Stationery,500,1500,POS,,Delivered,5.0
+ORD1008,2025-04-09,Chidi Etim,Abuja,Headphones,Electronics,4,18000,Card,26.0,Delivered,5.0
+ORD1009,2025-03-28,Ada Bello,Port Harcourt,Laptop,Electronics,5,450000,Transfer,23.0,Delivered,4.0
+ORD1010,2025-12-30,Ada Okafor,Lagos,Desk,Furniture,2,85000,POS,34.0,Delivered,5.0
+ORD1011,2025-09-30,Ngozi Effiong,Lagos,Wristwatch,Accessories,3,30000,,59.0,Cancelled,5.0
+ORD1012,2025-11-03,Daniel Okafor,Port Harcourt,Pen Pack,Stationery,1,1200,Card,50.0,Delivered,
+ORD1013,2025-10-26,Emeka Eze,Enugu,Pen Pack,Stationery,4,1200,Card,40.0,Delivered,4.0
+ORD1014,2025-12-17,Ibrahim Adeyemi,Port Harcourt,Pen Pack,Stationery,3,1200,Transfer,150.0,Delivered,2.0
+ORD1015,2025-02-08,Blessing Udoh,Uyo,Pen Pack,Stationery,3,1200,POS,24.0,Delivered,5.0
+ORD1016,2025-11-18,Joy Eze,Lagos,Desk,Furniture,3,85000,,30.0,Delivered,4.0
+ORD1017,2025-01-25,Ada Okon,ABUJA,Smartphone,Electronics,2,220000,POS,,Delivered,5.0
+ORD1018,2025-06-23,Ngozi Okafor,Uyo,Backpack,Accessories,3,15000,Cash,26.0,Delivered,5.0
+ORD1019,2025-08-05,Blessing Johnson,Port Harcourt,Office Chair,Furniture,4,65000,,50.0,Pending,5.0
+ORD1020,2025-05-11,Samuel Effiong,Calabar,Desk,Furniture,2,85000,POS,,Delivered,3.0
+ORD1021,2025-02-23,Chidi Adeyemi,Abuja,Power Bank,Electronics,1,12000,Transfer,20.0,Delivered,5.0
+ORD1022,2025-03-12,Samuel Bello,Enugu,Smartphone,Electronics,2,220000,POS,43.0,Delivered,
+ORD1023,2025-10-29,Tunde Musa,Lagos,Wristwatch,Accessories,1,30000,Card,31.0,Pending,1.0
+ORD1024,2025-04-27,Samuel Bello,Lagos,Pen Pack,Stationery,2,1200,Transfer,39.0,Pending,5.0
+ORD1025,2025-04-24,Ibrahim Adeyemi,Port Harcourt,Notebook,Stationery,4,1500,Card,24.0,Delivered,4.0
+ORD1026,2025-12-04,Ibrahim Obi,Calabar,Office Chair,Furniture,1,65000,Card,27.0,Delivered,4.0
+ORD1027,2025-02-22,Emeka Obi,Port Harcourt,Backpack,Accessories,4,15000,Card,38.0,Delivered,4.0
+ORD1028,2025-12-01,Blessing Johnson,Abuja,Desk,Furniture,2,85000,Card,50.0,Pending,3.0
+ORD1029,2025-12-03,Chidi Eze,Port Harcourt,Office Chair,Furniture,5,65000,Card,37.0,Delivered,
+ORD1030,2025-08-07,Joy Okon,Lagos,Office Chair,Furniture,4,65000,Transfer,43.0,Delivered,2.0
+ORD1031,2025-03-02,Ifeoma Okon,Abuja,Headphones,Electronics,2,18000,Card,,Delivered,
+ORD1032,2025-02-26,Joy Adeyemi,Lagos,Laptop,Electronics,3,450000,Card,30.0,Delivered,4.0
+ORD1033,2025-04-14,Ngozi Musa,Calabar,Desk,Furniture,1,85000,POS,31.0,Delivered,4.0
+ORD1034,30/07/2025,Aisha Okafor,Port Harcourt,Backpack,Accessories,1,15000,Card,,Delivered,
+ORD1035,2025-02-26,Samuel Udoh,Lagos,Laptop,Electronics,5,450000,Card,19.0,Delivered,5.0
+ORD1036,2025-06-16,Joy Nwosu,Port Harcourt,Backpack,Accessories,5,15000,Card,50.0,Pending,5.0
+ORD1037,12/02/2025,Blessing Bello,Port Harcourt,Backpack,Accessories,1,15000,Card,46.0,Delivered,4.0
+ORD1038,2025-07-17,Samuel Bello,Port Harcourt,Headphones,Electronics,2,18000,Cash,,Delivered,5.0
+ORD1039,2025-01-08,Chidi Effiong,Uyo,Notebook,Stationery,1,1500,POS,35.0,Delivered,
+ORD1040,2025-09-16,Ngozi Obi,Uyo,Smartphone,Electronics,2,220000,Cash,33.0,Cancelled,5.0
+ORD1041,2025-01-21,Peter Nwosu,Lagos,Pen Pack,Stationery,2,1200,Cash,,Delivered,2.0
+ORD1042,2025-03-13,Ifeoma Effiong,Lagos,Pen Pack,Stationery,2,1200,Card,53.0,Delivered,
+ORD1043,2025-03-05,Daniel Obi,Lagos,Power Bank,Electronics,3,12000,POS,23.0,Delivered,5.0
+ORD1044,2025-10-31,Samuel Bello,Uyo,Laptop,Electronics,1,450000,Card,37.0,Delivered,5.0
+ORD1045,2025-01-20,Ibrahim Etim,Port Harcourt,Wristwatch,Accessories,5,30000,Cash,18.0,Delivered,4.0
+ORD1046,2025-06-06,Daniel Adeyemi,Uyo,Office Chair,Furniture,4,65000,Transfer,39.0,Delivered,4.0
+ORD1047,2025-08-04,Aisha Okafor,Abuja,Backpack,Accessories,4,15000,POS,29.0,Delivered,4.0
+ORD1048,2025-07-08,Daniel Johnson,Calabar,Notebook,Stationery,1,1500,Transfer,,Delivered,
+ORD1049,2025-09-06,Ada Etim,Uyo,Pen Pack,Stationery,4,1200,Cash,39.0,Delivered,5.0
+ORD1050,2025-10-21,Blessing Etim,Lagos,Pen Pack,Stationery,5,1200,Transfer,33.0,Cancelled,
+ORD1051,2025-05-24,Ngozi Bello,Uyo,Smartphone,Electronics,1,220000,Cash,36.0,Delivered,4.0
+ORD1052,2025-10-30,Aisha Udoh,Port Harcourt,Power Bank,Electronics,4,12000,POS,53.0,Delivered,2.0
+ORD1053,27/04/2025,Tunde Effiong,Uyo,Office Chair,Furniture,2,65000,Cash,56.0,Delivered,4.0
+ORD1054,2025-12-26,Peter Okafor,Port Harcourt,Office Chair,Furniture,4,65000,Transfer,18.0,Delivered,2.0
+ORD1055,2025-07-04,Grace Udoh,Lagos,Laptop,Electronics,3,450000,Transfer,35.0,Delivered,
+ORD1056,2025-09-26,Ifeoma Eze,Calabar,Desk,Furniture,5,85000,Cash,,Delivered,4.0
+ORD1057,2025-11-16,Ifeoma Etim,Uyo,Smartphone,Electronics,1,220000,,42.0,Delivered,5.0
+ORD1058,2025-10-17,Peter Musa,Lagos,Pen Pack,Stationery,2,1200,Card,27.0,Delivered,3.0
+ORD1059,2025-11-07,Joy Etim,ABUJA,Notebook,Stationery,2,1500,Transfer,45.0,Pending,3.0
+ORD1060,2025-07-15,Ada Bello,Enugu,Wristwatch,Accessories,2,30000,Card,24.0,Cancelled,
+ORD1061,2025-01-16,Tunde Udoh,Lagos,Pen Pack,Stationery,2,1200,Card,19.0,Delivered,5.0
+ORD1062,2025-06-29,Daniel Effiong,Port Harcourt,Power Bank,Electronics,2,12000,Transfer,47.0,Delivered,
+ORD1063,2025-03-08,Daniel Musa,Lagos,Wristwatch,Accessories,1,30000,POS,42.0,Delivered,1.0
+ORD1064,2025-11-21,Ibrahim Musa,port harcourt,Office Chair,Furniture,4,65000,POS,53.0,Delivered,1.0
+ORD1065,2025-03-28,Chidi Okon,Enugu,Power Bank,Electronics,3,12000,Transfer,34.0,Delivered,4.0
+ORD1066,2025-03-25,Daniel Johnson,Port Harcourt,Wristwatch,Accessories,5,30000,Transfer,58.0,Delivered,3.0
+ORD1067,2025-04-02,Grace Okafor,Lagos,Power Bank,Electronics,4,12000,Card,37.0,Delivered,4.0
+ORD1068,2025-08-23,Joy Adeyemi,Uyo,Laptop,Electronics,1,450000,POS,52.0,Delivered,4.0
+ORD1069,2025-07-28,Joy Nwosu,Port Harcourt,Office Chair,Furniture,1,65000,Card,22.0,Pending,5.0
+ORD1070,2025-12-13,Ngozi Adeyemi,Calabar,Pen Pack,Stationery,3,1200,POS,,Delivered,3.0
+ORD1071,2025-06-01,Peter Effiong,Lagos,Smartphone,Electronics,3,220000,POS,54.0,Delivered,5.0
+ORD1072,2025-04-14,Aisha Etim,Port Harcourt,Office Chair,Furniture,2,65000,Cash,57.0,Delivered,2.0
+ORD1073,2025-01-18,Ibrahim Johnson,Calabar,Smartphone,Electronics,4,220000,Transfer,62.0,Delivered,5.0
+ORD1074,2025-01-03,Samuel Effiong,Calabar,Notebook,Stationery,3,1500,POS,33.0,Delivered,5.0
+ORD1075,2025-05-17,Chidi Nwosu,Port Harcourt,Office Chair,Furniture,4,65000,Cash,19.0,Cancelled,5.0
+ORD1076,2025-12-04,Blessing Effiong,Lagos,Power Bank,Electronics,1,12000,Cash,,Delivered,4.0
+ORD1077,2025-07-11,Aisha Musa,Port Harcourt,Headphones,Electronics,5,18000,POS,46.0,Delivered,3.0
+ORD1078,2025-11-23,Emeka Effiong,Lagos,Desk,Furniture,2,85000,POS,29.0,Delivered,5.0
+ORD1079,2025-02-07,Chidi Adeyemi,Port Harcourt,Notebook,Stationery,3,1500,Card,53.0,Delivered,5.0
+ORD1080,2025-02-04,Grace Etim, Uyo ,Wristwatch,Accessories,3,30000,POS,60.0,Delivered,3.0
+ORD1081,2025-11-01,Daniel Nwosu,Calabar,Office Chair,Furniture,5,65000,POS,31.0,Delivered,4.0
+ORD1082,2025-02-08,Ibrahim Bello,Calabar,Smartphone,Electronics,2,220000,Card,54.0,Pending,4.0
+ORD1083,2025-01-19,Ada Adeyemi,Abuja,Backpack,Accessories,2,15000,Transfer,55.0,Delivered,5.0
+ORD1084,2025-05-28,Peter Obi,Enugu,Notebook,Stationery,2,1500,POS,41.0,Delivered,5.0
+ORD1085,2025-12-04,Grace Musa,Abuja,Pen Pack,Stationery,2,1200,Card,47.0,Delivered,4.0
+ORD1086,2025-09-09,Chidi Udoh,Abuja,Laptop,Electronics,1,450000,Transfer,30.0,Pending,4.0
+ORD1087,2025-02-06,Ada Adeyemi,Abuja,Power Bank,Electronics,1,12000,Cash,61.0,Delivered,3.0
+ORD1088,2025-11-02,Aisha Udoh,Port Harcourt,Pen Pack,Stationery,2,1200,Cash,64.0,Delivered,4.0
+ORD1089,2025-11-04,Tunde Okafor,Port Harcourt,Backpack,Accessories,3,15000,POS,64.0,Delivered,1.0
+ORD1090,2025-10-20,Grace Obi,Uyo,Office Chair,Furniture,2,65000,Card,52.0,Delivered,5.0
+ORD1091,2025-11-26,Samuel Etim,Lagos,Backpack,Accessories,2,15000,Transfer,19.0,Delivered,4.0
+ORD1092,2025-03-29,Chidi Eze,Port Harcourt,Backpack,Accessories,4,15000,POS,35.0,Delivered,4.0
+ORD1093,2025-12-24,Emeka Musa,Port Harcourt,Power Bank,Electronics,2,12000,Cash,,Delivered,3.0
+ORD1094,2025-04-28,Ibrahim Okafor,Lagos,Backpack,Accessories,5,15000,Card,63.0,Delivered,3.0
+ORD1095,2025-10-20,Chidi Eze,Port Harcourt,Headphones,Electronics,4,18000,Transfer,43.0,Delivered,
+ORD1096,2025-07-31,Ifeoma Okon,Uyo,Headphones,Electronics,1,18000,Transfer,43.0,Pending,3.0
+ORD1097,2025-10-12,Ibrahim Musa,Abuja,Notebook,Stationery,2,1500,Cash,24.0,Pending,2.0
+ORD1098,2025-08-18,Samuel Obi,Calabar,Notebook,Stationery,1,1500,Transfer,55.0,Delivered,
+ORD1099,2025-08-23,Daniel Musa,Uyo,Smartphone,Electronics,2,220000,,33.0,Delivered,4.0
+ORD1100,2025-08-13,Ngozi Etim,Uyo,Backpack,Accessories,2,15000,Transfer,22.0,Delivered,4.0
+ORD1101,2025-10-12,Peter Johnson,Port Harcourt,Smartphone,Electronics,1,220000,Cash,64.0,Pending,4.0
+ORD1102,2025-09-27,Samuel Effiong,Abuja,Backpack,Accessories,1,15000,Card,26.0,Delivered,5.0
+ORD1103,2025-02-19,Ibrahim Okon,Abuja,Laptop,Electronics,3,450000,Cash,18.0,Delivered,4.0
+ORD1104,2025-10-29,Tunde Obi,Uyo,Pen Pack,Stationery,4,1200,POS,21.0,Delivered,5.0
+ORD1105,2025-07-15,Grace Johnson,Abuja,Pen Pack,Stationery,2,1200,Card,39.0,Delivered,5.0
+ORD1106,2025-04-28,Blessing Effiong,Uyo,Pen Pack,Stationery,5,1200,Transfer,22.0,Delivered,5.0
+ORD1107,2025-07-07,Emeka Bello,Port Harcourt,Notebook,Stationery,2,1500,Cash,57.0,Delivered,
+ORD1108,2025-12-19,Ibrahim Okon,Enugu,Office Chair,Furniture,5,65000,Cash,42.0,Cancelled,5.0
+ORD1109,2025-11-10,Daniel Etim,Uyo,Pen Pack,Stationery,2,1200,Cash,33.0,Delivered,4.0
+ORD1110,2025-11-01,Samuel Nwosu,Uyo,Headphones,Electronics,3,18000,Cash,18.0,Pending,4.0
+ORD1111,2025-06-18,Peter Musa,Port Harcourt,Pen Pack,Stationery,4,1200,Cash,40.0,Delivered,4.0
+ORD1112,2025-10-14,Chidi Obi,Lagos,Desk,Furniture,1,85000,Cash,,Delivered,4.0
+ORD1113,2025-05-21,Emeka Obi,Calabar,Office Chair,Furniture,5,65000,Card,63.0,Pending,2.0
+ORD1114,2025-09-08,Ifeoma Eze,Enugu,Desk,Furniture,2,85000,POS,31.0,Delivered,4.0
+ORD1115,2025-08-22,Daniel Okon,Uyo,Desk,Furniture,3,85000,Transfer,40.0,Delivered,2.0
+ORD1116,2025-04-02,Peter Okon,Uyo,Laptop,Electronics,4,450000,Card,18.0,Delivered,4.0
+ORD1117,2025-04-08,Grace Adeyemi,Abuja,Smartphone,Electronics,4,220000,Transfer,24.0,Delivered,4.0
+ORD1118,2025-01-23,Ada Bello,Port Harcourt,Headphones,Electronics,1,18000,Transfer,27.0,Delivered,5.0
+ORD1119,2025-02-21,Aisha Okafor,Calabar,Smartphone,Electronics,5,220000,Card,20.0,Delivered,
+ORD1120,2025-06-08,Ibrahim Johnson,Lagos,Office Chair,Furniture,4,45000000,POS,52.0,Delivered,4.0
+ORD1121,2025-06-24,Peter Etim,Uyo,Notebook,Stationery,5,1500,Card,62.0,Delivered,4.0
+ORD1122,2025-03-02,Ngozi Obi,Abuja,Notebook,Stationery,3,1500,Transfer,64.0,Delivered,1.0
+ORD1123,2025-06-02,Ngozi Etim,Uyo,Office Chair,Furniture,4,65000,Transfer,0.0,Delivered,3.0
+ORD1124,2025-08-09,Aisha Obi,Port Harcourt,Backpack,Accessories,3,15000,POS,55.0,Delivered,2.0
+ORD1125,2025-03-26,Tunde Adeyemi,Lagos,Desk,Furniture,5,85000,Cash,41.0,Delivered,3.0
+ORD1126,2025-05-04,Emeka Johnson,Lagos,Laptop,Electronics,5,450000,POS,,Pending,3.0
+ORD1127,2025-05-15,Samuel Bello,Lagos,Pen Pack,Stationery,5,1200,Card,22.0,Delivered,4.0
+ORD1128,2025-07-04,Tunde Nwosu,Lagos,Desk,Furniture,3,85000,POS,43.0,Delivered,4.0
+ORD1129,2025-05-14,Ibrahim Johnson,Enugu,Notebook,Stationery,4,1500,POS,,Delivered,1.0
+ORD1130,2025-09-26,Tunde Obi,Enugu,Desk,Furniture,2,85000,Transfer,,Pending,3.0
+ORD1131,2025-04-30,Blessing Johnson,Lagos,Desk,Furniture,3,85000,Cash,61.0,Delivered,2.0
+ORD1132,2025-06-08,Tunde Okafor,Uyo,Laptop,Electronics,4,450000,Card,52.0,Delivered,4.0
+ORD1133,2025-05-19,Ada Adeyemi,Abuja,Desk,Furniture,1,85000,POS,41.0,Delivered,4.0
+ORD1134,2025-03-08,Peter Okafor,Enugu,Pen Pack,Stationery,4,1200,POS,64.0,Delivered,4.0
+ORD1135,2025-09-08,Chidi Bello,Port Harcourt,Power Bank,Electronics,1,12000,Transfer,63.0,Delivered,3.0
+ORD1136,2025-03-27,Peter Okon,Port Harcourt,Notebook,Stationery,3,1500,Cash,63.0,Cancelled,1.0
+ORD1137,2025-04-19,Joy Okon,Port Harcourt,Laptop,Electronics,3,450000,Transfer,30.0,Delivered,5.0
+ORD1138,2025-10-17,Samuel Johnson,Uyo,Power Bank,Electronics,3,12000,Card,59.0,Delivered,2.0
+ORD1139,2025-12-13,Ada Effiong,Lagos,Office Chair,Furniture,3,65000,Cash,41.0,Delivered,2.0
+ORD1140,2025-09-02,Joy Okon,Port Harcourt,Wristwatch,Accessories,3,30000,Cash,52.0,Delivered,3.0
+ORD1141,2025-12-01,Chidi Johnson,Abuja,Headphones,Electronics,3,18000,POS,58.0,Delivered,5.0
+ORD1142,2025-11-08,Chidi Okafor,Abuja,Headphones,Electronics,3,18000,POS,25.0,Delivered,4.0
+ORD1143,2025-06-25,Ngozi Udoh,Abuja,Office Chair,Furniture,3,65000,Transfer,39.0,Delivered,
+ORD1144,2025-10-09,Emeka Musa,Port Harcourt,Wristwatch,Accessories,4,30000,POS,,Delivered,5.0
+ORD1145,2025-04-30,Tunde Effiong,Port Harcourt,Backpack,Accessories,3,15000,Cash,31.0,Cancelled,2.0
+ORD1146,2025-06-18,Blessing Okafor,Abuja,Laptop,Electronics,4,450000,Cash,,Delivered,5.0
+ORD1147,2025-07-15,Peter Nwosu,Abuja,Headphones,Electronics,5,18000,Cash,58.0,Delivered,3.0
+ORD1148,2025-12-17,Tunde Okon,PORT HARCOURT,Backpack,Accessories,5,15000,POS,58.0,Delivered,
+ORD1149,2025-11-06,Ibrahim Okafor,Calabar,Laptop,Electronics,1,450000,,36.0,Delivered,4.0
+ORD1150,2025-06-28,Joy Adeyemi,Uyo,Backpack,Accessories,4,15000,Card,33.0,Delivered,4.0
+ORD1151,2025-08-27,Samuel Effiong,Calabar,Headphones,Electronics,2,18000,Card,42.0,Delivered,5.0
+ORD1152,2025-03-15,Grace Okon,Uyo,Wristwatch,Accessories,1,30000,Transfer,60.0,Delivered,3.0
+ORD1153,2025-10-21,Tunde Udoh,Uyo,Headphones,Electronics,4,18000,Cash,63.0,Pending,
+ORD1154,2025-07-21,Chidi Effiong,Lagos,Office Chair,Furniture,1,65000,Cash,28.0,Pending,4.0
+ORD1155,2025-07-14,Ibrahim Adeyemi,Uyo,Notebook,Stationery,5,1500,Transfer,26.0,Delivered,4.0
+ORD1156,2025-10-07,Joy Effiong,UYO,Smartphone,Electronics,4,220000,Cash,51.0,Delivered,
+ORD1157,2025-08-20,Ngozi Eze, Uyo ,Desk,Furniture,5,85000,POS,32.0,Delivered,2.0
+ORD1158,2025-01-27,Samuel Musa,Port Harcourt,Desk,Furniture,4,85000,Transfer,27.0,Delivered,
+ORD1159,2025-04-16,Blessing Adeyemi,Abuja,Pen Pack,Stationery,5,1200,Transfer,19.0,Cancelled,4.0
+ORD1160,2025-03-06,Emeka Eze,Uyo,Wristwatch,Accessories,1,30000,,36.0,Delivered,5.0
+ORD1161,2025-09-26,Ibrahim Effiong,Lagos,Notebook,Stationery,5,1500,Transfer,36.0,Cancelled,3.0
+ORD1162,2025-01-13,Ngozi Udoh,Abuja,Office Chair,Furniture,1,65000,,,Delivered,4.0
+ORD1163,2025-03-15,Samuel Bello,Uyo,Office Chair,Furniture,2,65000,POS,27.0,Delivered,5.0
+ORD1164,2025-08-07,Samuel Adeyemi,Uyo,Office Chair,Furniture,1,65000,Cash,51.0,Delivered,4.0
+ORD1165,2025-09-11,Blessing Okon,Calabar,Backpack,Accessories,3,15000,Transfer,,Delivered,3.0
+ORD1166,2025-07-03,Chidi Johnson,Abuja,Power Bank,Electronics,4,12000,Cash,39.0,Delivered,3.0
+ORD1167,2025-11-11,Ibrahim Obi,Lagos,Smartphone,Electronics,2,220000,Card,26.0,Delivered,5.0
+ORD1168,2025-12-02,Grace Eze,Abuja,Power Bank,Electronics,5,12000,Transfer,41.0,Delivered,
+ORD1169,2025-02-18,Joy Adeyemi,Uyo,Laptop,Electronics,4,450000,Card,49.0,Cancelled,5.0
+ORD1170,2025-12-14,Ibrahim Bello,Port Harcourt,Smartphone,Electronics,4,220000,Card,35.0,Delivered,5.0
+ORD1171,2025-08-13,Emeka Nwosu,Abuja,Laptop,Electronics,5,450000,Card,,Delivered,1.0
+ORD1172,2025-08-21,Ifeoma Obi,Port Harcourt,Pen Pack,Stationery,3,1200,Cash,41.0,Delivered,3.0
+ORD1173,2025-02-04,Daniel Okon,Abuja,Pen Pack,Stationery,2,1200,Card,34.0,Delivered,5.0
+ORD1174,2025-08-15,Joy Musa,Lagos,Notebook,Stationery,5,1500,Cash,36.0,Pending,2.0
+ORD1175,2025-09-22,Ada Adeyemi,Abuja,Office Chair,Furniture,3,65000,Transfer,34.0,Delivered,4.0
+ORD1176,2025-07-31,Blessing Effiong,Port Harcourt,Pen Pack,Stationery,4,1200,Transfer,32.0,Delivered,5.0
+ORD1177,2025-01-31,Tunde Etim,Port Harcourt,Smartphone,Electronics,2,220000,,51.0,Delivered,4.0
+ORD1178,2025-07-10,Aisha Bello,UYO,Wristwatch,Accessories,2,30000,Cash,39.0,Delivered,4.0
+ORD1179,2025-12-08,Emeka Adeyemi, Uyo ,Desk,Furniture,1,85000,Cash,39.0,Delivered,5.0
+ORD1180,2025-09-22,Emeka Okafor,Abuja,Wristwatch,Accessories,2,30000,Cash,48.0,Pending,4.0
+ORD1181,2025-02-20,Aisha Udoh,Uyo,Smartphone,Electronics,1,220000,Card,34.0,Delivered,3.0
+ORD1182,2025-12-17,Ibrahim Okafor,Uyo,Office Chair,Furniture,4,65000,Card,22.0,Delivered,4.0
+ORD1183,2025-12-16,Aisha Etim,Uyo,Notebook,Stationery,1,1500,Cash,58.0,Delivered,5.0
+ORD1184,2025-03-03,Peter Musa,Uyo,Office Chair,Furniture,4,65000,POS,20.0,Delivered,5.0
+ORD1185,2025-10-20,Ngozi Adeyemi,Abuja,Office Chair,Furniture,5,65000,Card,44.0,Cancelled,4.0
+ORD1186,2025-05-29,Blessing Etim,Port Harcourt,Smartphone,Electronics,4,220000,Card,30.0,Delivered,4.0
+ORD1187,2025-08-05,Ngozi Obi,Enugu,Power Bank,Electronics,3,12000,POS,28.0,Delivered,2.0
+ORD1188,2025-06-12,Peter Johnson,Uyo,Headphones,Electronics,1,18000,POS,19.0,Delivered,3.0
+ORD1189,2025-10-13,Ibrahim Nwosu,Lagos,Power Bank,Electronics,5,12000,Card,60.0,Delivered,1.0
+ORD1190,2025-12-30,Peter Eze,Port Harcourt,Notebook,Stationery,1,1500,Transfer,38.0,Cancelled,5.0
+ORD1191,2025-10-18,Aisha Effiong,port harcourt,Notebook,Stationery,4,1500,,34.0,Delivered,
+ORD1192,2025-12-06,Chidi Udoh,Calabar,Notebook,Stationery,4,1500,Card,,Delivered,5.0
+ORD1193,2025-12-12,Ibrahim Eze,Enugu,Power Bank,Electronics,1,12000,Transfer,19.0,Delivered,3.0
+ORD1194,2025-02-02,Ngozi Effiong,Calabar,Wristwatch,Accessories,4,30000,Transfer,44.0,Delivered,3.0
+ORD1195,2025-04-03,Aisha Nwosu,Uyo,Laptop,Electronics,1,450000,Cash,41.0,Delivered,4.0
+ORD1196,2025-09-21,Peter Okon,Uyo,Power Bank,Electronics,2,12000,Transfer,44.0,Delivered,4.0
+ORD1197,2025-08-04,Tunde Musa,Lagos,Smartphone,Electronics,5,220000,Transfer,23.0,Delivered,5.0
+ORD1198,2025-01-19,Grace Musa,Port Harcourt,Power Bank,Electronics,5,12000,Transfer,62.0,Delivered,5.0
+ORD1199,2025-02-04,Ada Eze,Abuja,Wristwatch,Accessories,2,30000,POS,29.0,Delivered,5.0
+ORD1200,2025-07-09,Daniel Udoh,Lagos,Power Bank,Electronics,5,12000,Card,49.0,Delivered,3.0
+ORD1201,2025-08-13,Aisha Eze,Lagos,Wristwatch,Accessories,5,30000,Card,53.0,Delivered,5.0
+ORD1202,2025-03-03,Ifeoma Bello,Abuja,Office Chair,Furniture,4,65000,Card,34.0,Delivered,3.0
+ORD1203,2025-03-04,Aisha Effiong,Abuja,Notebook,Stationery,1,1500,POS,24.0,Delivered,5.0
+ORD1204,2025-02-17,Ada Eze,Uyo,Office Chair,Furniture,2,65000,POS,31.0,Delivered,
+ORD1205,2025-07-26,Ada Nwosu,Uyo,Headphones,Electronics,4,18000,Cash,55.0,Delivered,4.0
+ORD1206,2025-01-03,Tunde Johnson,Lagos,Pen Pack,Stationery,5,1200,Card,60.0,Delivered,3.0
+ORD1207,2025-07-28,Grace Johnson,Port Harcourt,Wristwatch,Accessories,5,30000,POS,62.0,Delivered,
+ORD1208,2025-06-23,Grace Etim,Port Harcourt,Headphones,Electronics,3,18000,Transfer,28.0,Delivered,3.0
+ORD1209,2025-06-20,Ngozi Etim,Port Harcourt,Pen Pack,Stationery,2,1200,POS,46.0,Delivered,5.0
+ORD1210,2025-09-05,Peter Obi,abuja,Headphones,Electronics,5,18000,Transfer,25.0,Pending,5.0
+ORD1211,2025-07-10,Grace Okon,Abuja,Pen Pack,Stationery,2,1200,POS,51.0,Delivered,5.0
+ORD1212,2025-09-23,Tunde Johnson,Lagos,Pen Pack,Stationery,2,1200,POS,37.0,Delivered,2.0
+ORD1213,2025-10-06,Samuel Effiong,port harcourt,Office Chair,Furniture,5,65000,Card,51.0,Delivered,
+ORD1214,2025-12-02,Tunde Johnson,Port Harcourt,Pen Pack,Stationery,3,1200,Cash,50.0,Delivered,3.0
+ORD1215,2025-10-19,Blessing Udoh,Lagos,Headphones,Electronics,2,18000,Transfer,64.0,Delivered,4.0
+ORD1216,2025-07-08,Ifeoma Nwosu,Port Harcourt,Laptop,Electronics,1,450000,Transfer,40.0,Pending,4.0
+ORD1217,2025-06-29,Aisha Bello,Lagos,Laptop,Electronics,3,450000,Transfer,34.0,Delivered,3.0
+ORD1218,2025-03-28,Chidi Musa,Lagos,Office Chair,Furniture,5,65000,Cash,42.0,Delivered,4.0
+ORD1219,07/08/2025,Aisha Obi,Uyo,Wristwatch,Accessories,3,30000,Transfer,25.0,Delivered,
+ORD1220,2025-02-20,Joy Nwosu,Uyo,Smartphone,Electronics,4,220000,Cash,23.0,Delivered,
+ORD1221,2025-12-06,Peter Etim,Uyo,Office Chair,Furniture,2,65000,Cash,42.0,Pending,5.0
+ORD1222,2025-11-05,Emeka Okafor,Calabar,Pen Pack,Stationery,4,1200,POS,56.0,Delivered,2.0
+ORD1223,2025-02-13,Peter Obi,Lagos,Headphones,Electronics,4,18000,POS,43.0,Delivered,5.0
+ORD1224,2025-10-14,Joy Bello,Uyo,Pen Pack,Stationery,4,1200,Card,54.0,Delivered,4.0
+ORD1225,2025-02-12,Aisha Okafor,Calabar,Power Bank,Electronics,4,12000,POS,26.0,Delivered,
+ORD1226,2025-09-21,Ada Udoh,Port Harcourt,Backpack,Accessories,3,15000,Card,39.0,Delivered,5.0
+ORD1227,2025-02-02,Grace Okafor,Port Harcourt,Desk,Furniture,2,85000,Cash,46.0,Delivered,
+ORD1228,2025-06-28,Peter Etim,Calabar,Desk,Furniture,4,85000,Transfer,,Delivered,5.0
+ORD1229,2025-08-29,Tunde Nwosu,Uyo,Smartphone,Electronics,5,220000,Cash,18.0,Cancelled,5.0
+ORD1230,2025-09-24,Daniel Eze,Uyo,Office Chair,Furniture,5,65000,Cash,21.0,Delivered,4.0
+ORD1231,2025-06-02,Ada Okafor,Lagos,Backpack,Accessories,2,15000,POS,61.0,Delivered,3.0
+ORD1232,2025-12-03,Daniel Bello,Uyo,Laptop,Electronics,4,450000,Transfer,,Delivered,2.0
+ORD1233,2025-10-10,Grace Adeyemi,Lagos,Pen Pack,Stationery,1,1200,POS,30.0,Delivered,4.0
+ORD1234,2025-03-18,Joy Okafor,Uyo,Office Chair,Furniture,3,65000,Transfer,30.0,Pending,2.0
+ORD1235,02/09/2025,Ngozi Okon,Uyo,Pen Pack,Stationery,3,1200,Card,19.0,Delivered,3.0
+ORD1236,2025-09-24,Blessing Udoh,Uyo,Notebook,Stationery,2,1500,Transfer,,Delivered,2.0
+ORD1237,2025-05-02,Peter Eze,Port Harcourt,Office Chair,Furniture,5,65000,Cash,23.0,Pending,4.0
+ORD1238,2025-09-27,Blessing Adeyemi,Uyo,Power Bank,Electronics,5,12000,Cash,53.0,Delivered,
+ORD1239,2025-11-24,Tunde Adeyemi,Uyo,Notebook,Stationery,1,1500,POS,29.0,Delivered,4.0
+ORD1240,2025-10-26,Ifeoma Okafor,Calabar,Smartphone,Electronics,2,220000,Card,33.0,Cancelled,5.0
+ORD1241,2025-10-06,Aisha Bello,Port Harcourt,Desk,Furniture,2,85000,Transfer,30.0,Delivered,5.0
+ORD1242,2025-08-20,Chidi Effiong,Port Harcourt,Laptop,Electronics,5,450000,POS,56.0,Delivered,4.0
+ORD1243,2025-04-09,Ifeoma Okafor,Uyo,Notebook,Stationery,3,1500,Transfer,19.0,Cancelled,4.0
+ORD1244,2025-10-18,Emeka Nwosu,Port Harcourt,Notebook,Stationery,4,1500,Card,34.0,Pending,
+ORD1245,2025-05-13,Tunde Etim,Port Harcourt,Laptop,Electronics,5,450000,POS,31.0,Delivered,4.0
+ORD1246,2025-07-14,Ada Eze,Lagos,Pen Pack,Stationery,4,1200,,,Delivered,5.0
+ORD1247,2025-04-25,Chidi Etim,Uyo,Office Chair,Furniture,1,65000,POS,27.0,Delivered,3.0
+ORD1248,2025-04-25,Ibrahim Johnson,Calabar,Pen Pack,Stationery,1,1200,POS,60.0,Pending,5.0
+ORD1249,2025-02-27,Blessing Effiong,Calabar,Laptop,Electronics,2,450000,POS,35.0,Delivered,2.0
+ORD1250,2025-12-17,Ibrahim Eze,uyo,Smartphone,Electronics,2,220000,Cash,37.0,Delivered,5.0
+ORD1251,2025-02-23,Tunde Eze,Uyo,Office Chair,Furniture,4,65000,POS,36.0,Delivered,4.0
+ORD1252,2025-02-01,Grace Udoh,Uyo,Smartphone,Electronics,1,220000,POS,64.0,Cancelled,3.0
+ORD1253,2025-12-08,Ngozi Etim,Lagos,Power Bank,Electronics,2,12000,Transfer,33.0,Pending,5.0
+ORD1254,2025-07-22,Ngozi Okon,Uyo,Notebook,Stationery,2,1500,Card,34.0,Delivered,2.0
+ORD1255,2025-06-09,Aisha Udoh,Calabar,Smartphone,Electronics,1,220000,Transfer,33.0,Delivered,5.0
+ORD1256,2025-09-27,Joy Eze,ABUJA,Notebook,Stationery,1,1500,Cash,,Cancelled,4.0
+ORD1257,2025-05-20,Tunde Obi,Abuja,Smartphone,Electronics,1,220000,,22.0,Cancelled,
+ORD1258,2025-02-16,Blessing Okafor,Lagos,Smartphone,Electronics,3,220000,Card,46.0,Delivered,
+ORD1259,2025-09-24,Blessing Etim,Enugu,Desk,Furniture,3,85000,Cash,19.0,Delivered,5.0
+ORD1260,2025-03-06,Ngozi Okon,Uyo,Pen Pack,Stationery,3,1200,Card,28.0,Delivered,3.0
+ORD1261,21/07/2025,Ifeoma Bello,Port Harcourt,Smartphone,Electronics,3,220000,Cash,27.0,Delivered,5.0
+ORD1262,13/12/2025,Grace Okafor,Port Harcourt,Headphones,Electronics,4,18000,Cash,31.0,Delivered,5.0
+ORD1263,2025-12-08,Aisha Bello, Calabar ,Wristwatch,Accessories,5,30000,Cash,53.0,Delivered,5.0
+ORD1264,2025-05-12,Ada Obi,Lagos,Wristwatch,Accessories,3,30000,Transfer,46.0,Delivered,3.0
+ORD1265,2025-10-12,Emeka Okafor,Abuja,Desk,Furniture,4,85000,Transfer,64.0,Pending,
+ORD1266,2025-08-12,Peter Udoh,Uyo,Office Chair,Furniture,4,65000,Cash,34.0,Delivered,5.0
+ORD1267,2025-06-24,Daniel Okafor,Enugu,Power Bank,Electronics,4,12000,Cash,61.0,Delivered,2.0
+ORD1268,2025-02-21,Ifeoma Bello,Port Harcourt,Notebook,Stationery,1,1500,POS,20.0,Delivered,4.0
+ORD1269,2025-05-18,Samuel Musa,Port Harcourt,Desk,Furniture,5,85000,Transfer,41.0,Delivered,3.0
+ORD1270,2025-08-26,Blessing Udoh,Enugu,Headphones,Electronics,1,18000,Transfer,,Delivered,4.0
+ORD1271,2025-12-27,Emeka Nwosu,Port Harcourt,Laptop,Electronics,3,450000,Transfer,42.0,Delivered,5.0
+ORD1272,2025-01-02,Tunde Musa,Port Harcourt,Smartphone,Electronics,4,220000,Cash,61.0,Delivered,4.0
+ORD1273,2025-09-19,Samuel Effiong,Lagos,Wristwatch,Accessories,3,30000,Card,32.0,Delivered,4.0
+ORD1274,2025-11-05,Blessing Okafor,Uyo,Office Chair,Furniture,2,65000,Transfer,19.0,Pending,4.0
+ORD1275,2025-12-14,Tunde Effiong,Port Harcourt,Office Chair,Furniture,5,65000,Card,54.0,Delivered,
+ORD1276,2025-06-04,Ibrahim Musa,Uyo,Office Chair,Furniture,1,65000,Cash,21.0,Pending,3.0
+ORD1277,2025-02-13,Blessing Bello,Uyo,Pen Pack,Stationery,2,1200,POS,53.0,Pending,5.0
+ORD1278,2025-04-09,Ngozi Johnson,Calabar,Laptop,Electronics,5,450000,POS,52.0,Pending,4.0
+ORD1279,2025-11-07,Peter Effiong,lagos,Laptop,Electronics,4,450000,Transfer,57.0,Delivered,4.0
+ORD1280,2025-11-17,Aisha Eze, Port Harcourt ,Headphones,Electronics,1,18000,Card,40.0,Delivered,5.0
+ORD1281,2025-08-21,Tunde Obi,Port Harcourt,Office Chair,Furniture,4,65000,Card,60.0,Delivered,2.0
+ORD1282,2025-02-14,Ibrahim Etim,Port Harcourt,Notebook,Stationery,5,1500,,25.0,Delivered,3.0
+ORD1283,2025-02-14,Peter Musa,Lagos,Office Chair,Furniture,1,65000,POS,38.0,Delivered,3.0
+ORD1284,2025-06-24,Ngozi Obi,Calabar,Office Chair,Furniture,3,65000,POS,23.0,Cancelled,5.0
+ORD1285,2025-08-03,Emeka Adeyemi,Calabar,Wristwatch,Accessories,3,30000,Cash,54.0,Delivered,5.0
+ORD1286,2025-01-12,Joy Johnson,Port Harcourt,Smartphone,Electronics,1,220000,Card,51.0,Delivered,4.0
+ORD1287,2025-09-08,Ifeoma Eze,Port Harcourt,Desk,Furniture,2,85000,Card,55.0,Delivered,
+ORD1288,2025-07-18,Ibrahim Johnson,Port Harcourt,Desk,Furniture,1,85000,POS,53.0,Delivered,3.0
+ORD1289,2025-01-05,Emeka Musa,Lagos,Office Chair,Furniture,1,65000,Transfer,32.0,Delivered,4.0
+ORD1290,2025-02-04,Aisha Udoh,Port Harcourt,Backpack,Accessories,3,15000,Card,21.0,Delivered,4.0
+ORD1291,2025-06-15,Ibrahim Adeyemi,Lagos,Headphones,Electronics,3,18000,Card,61.0,Delivered,5.0
+ORD1292,2025-09-21,Grace Eze,Lagos,Wristwatch,Accessories,2,30000,Transfer,41.0,Delivered,5.0
+ORD1293,2025-10-29,Daniel Okafor,Port Harcourt,Power Bank,Electronics,2,12000,Cash,22.0,Delivered,4.0
+ORD1294,2025-06-07,Ngozi Okafor,Port Harcourt,Desk,Furniture,1,85000,POS,61.0,Delivered,5.0
+ORD1295,2025-04-18,Joy Adeyemi,Port Harcourt,Desk,Furniture,4,85000,Transfer,64.0,Delivered,5.0
+ORD1296,2025-12-20,Chidi Okafor,Uyo,Backpack,Accessories,2,15000,Cash,38.0,Cancelled,4.0
+ORD1297,2025-06-17,Samuel Bello,Uyo,Office Chair,Furniture,5,65000,Card,54.0,Delivered,4.0
+ORD1298,2025-04-26,Samuel Okon,Abuja,Headphones,Electronics,3,18000,Card,19.0,Delivered,5.0
+ORD1299,2025-06-11,Daniel Okon,Port Harcourt,Laptop,Electronics,5,450000,Card,22.0,Delivered,3.0
+ORD1300,2025-01-05,Aisha Okon,Uyo,Power Bank,Electronics,4,12000,POS,30.0,Delivered,5.0
+ORD1301,2025-04-21,Daniel Eze,Lagos,Backpack,Accessories,2,15000,Cash,48.0,Delivered,
+ORD1302,2025-07-08,Emeka Effiong,Abuja,Laptop,Electronics,4,450000,POS,24.0,Delivered,4.0
+ORD1303,2025-12-02,Ifeoma Musa,port harcourt,Backpack,Accessories,2,15000,Card,19.0,Cancelled,5.0
+ORD1304,2025-09-27,Tunde Bello,Abuja,Desk,Furniture,1,85000,Card,49.0,Delivered,4.0
+ORD1305,2025-10-13,Joy Bello,Calabar,Smartphone,Electronics,2,220000,POS,54.0,Delivered,4.0
+ORD1306,2025-07-18,Samuel Okon,Lagos,Power Bank,Electronics,2,12000,Card,52.0,Delivered,4.0
+ORD1307,2025-02-10,Ada Udoh,Lagos,Desk,Furniture,1,85000,Card,55.0,Delivered,3.0
+ORD1308,2025-05-23,Daniel Nwosu,Uyo,Power Bank,Electronics,1,12000,Cash,55.0,Delivered,3.0
+ORD1309,2025-12-30,Emeka Obi,Calabar,Smartphone,Electronics,5,220000,Cash,46.0,Delivered,3.0
+ORD1310,2025-01-17,Tunde Okafor, Port Harcourt ,Notebook,Stationery,3,1500,Card,42.0,Delivered,4.0
+ORD1311,2025-11-17,Ngozi Okafor,Calabar,Notebook,Stationery,3,1500,Transfer,58.0,Delivered,4.0
+ORD1312,2025-09-07,Ibrahim Obi,Lagos,Smartphone,Electronics,5,220000,Cash,34.0,Delivered,3.0
+ORD1313,2025-04-14,Grace Musa,Uyo,Headphones,Electronics,2,18000,Transfer,22.0,Delivered,5.0
+ORD1314,2025-10-11,Chidi Bello,Uyo,Headphones,Electronics,3,18000,Transfer,53.0,Delivered,4.0
+ORD1315,2025-11-02,Grace Effiong,Lagos,Notebook,Stationery,5,1500,Card,30.0,Delivered,4.0
+ORD1316,2025-01-16,Emeka Effiong,Lagos,Pen Pack,Stationery,4,1200,Transfer,,Delivered,4.0
+ORD1317,2025-02-08,Chidi Nwosu,Uyo,Pen Pack,Stationery,2,1200,POS,37.0,Delivered,3.0
+ORD1318,2025-08-31,Ifeoma Musa,Abuja,Wristwatch,Accessories,2,30000,Cash,58.0,Delivered,5.0
+ORD1319,2025-12-31,Ifeoma Eze,Calabar,Pen Pack,Stationery,1,1200,POS,19.0,Cancelled,4.0
+ORD1320,09/01/2025,Joy Okafor,Port Harcourt,Power Bank,Electronics,1,12000,Card,48.0,Delivered,
+ORD1321,2025-08-31,Blessing Musa,Port Harcourt,Smartphone,Electronics,1,220000,Card,39.0,Delivered,5.0
+ORD1322,2025-02-19,Emeka Eze,Uyo,Notebook,Stationery,4,1500,Cash,39.0,Delivered,5.0
+ORD1323,2025-08-26,Aisha Musa,Abuja,Wristwatch,Accessories,4,30000,Card,-5.0,Pending,5.0
+ORD1324,2025-08-16,Peter Effiong,Port Harcourt,Wristwatch,Accessories,3,30000,Cash,63.0,Delivered,5.0
+ORD1325,2025-02-03,Ifeoma Okafor,Calabar,Headphones,Electronics,4,18000,POS,36.0,Delivered,
+ORD1326,2025-09-06,Ada Musa, Port Harcourt ,Headphones,Electronics,1,18000,Transfer,57.0,Delivered,4.0
+ORD1327,2025-11-24,Ifeoma Udoh,LAGOS,Laptop,Electronics,2,450000,Cash,37.0,Pending,4.0
+ORD1328,2025-11-12,Daniel Effiong,Port Harcourt,Smartphone,Electronics,2,220000,Cash,20.0,Delivered,4.0
+ORD1329,2025-01-11,Daniel Eze,Uyo,Desk,Furniture,5,85000,Card,59.0,Cancelled,3.0
+ORD1330,2025-03-31,Grace Musa,Abuja,Desk,Furniture,4,85000,POS,26.0,Delivered,3.0
+ORD1331,2025-03-29,Ifeoma Nwosu,PORT HARCOURT,Power Bank,Electronics,5,12000,Card,30.0,Pending,2.0
+ORD1332,2025-06-15,Ibrahim Adeyemi,Lagos,Power Bank,Electronics,2,12000,POS,58.0,Delivered,5.0
+ORD1333,2025-02-22,Joy Okon,Enugu,Backpack,Accessories,5,15000,Cash,60.0,Delivered,5.0
+ORD1334,2025-11-08,Ibrahim Okon,Enugu,Office Chair,Furniture,1,65000,Card,61.0,Delivered,5.0
+ORD1335,2025-10-11,Joy Nwosu,Calabar,Backpack,Accessories,2,15000,Cash,38.0,Delivered,4.0
+ORD1336,2025-10-23,Tunde Johnson,Uyo,Wristwatch,Accessories,3,30000,Card,,Delivered,3.0
+ORD1337,2025-03-14,Joy Obi,Lagos,Power Bank,Electronics,1,12000,Cash,33.0,Delivered,4.0
+ORD1338,2025-01-06,Ifeoma Etim,Calabar,Headphones,Electronics,5,18000,POS,52.0,Delivered,
+ORD1339,2025-11-29,Ngozi Nwosu,Port Harcourt,Wristwatch,Accessories,5,30000,POS,41.0,Delivered,5.0
+ORD1340,16/04/2025,Peter Okafor,Uyo,Notebook,Stationery,3,1500,POS,20.0,Delivered,5.0
+ORD1341,2025-08-28,Ada Johnson,Abuja,Headphones,Electronics,2,18000,Transfer,37.0,Pending,5.0
+ORD1342,2025-11-28,Chidi Nwosu,Port Harcourt,Notebook,Stationery,1,1500,Cash,39.0,Delivered,5.0
+ORD1343,2025-01-14,Chidi Adeyemi,Lagos,Desk,Furniture,4,85000,Transfer,30.0,Delivered,5.0
+ORD1344,2025-01-02,Peter Bello,Enugu,Wristwatch,Accessories,3,30000,POS,35.0,Delivered,
+ORD1345,2025-01-02,Joy Effiong,Lagos,Headphones,Electronics,4,18000,Transfer,41.0,Pending,1.0
+ORD1346,2025-02-27,Samuel Adeyemi,Port Harcourt,Wristwatch,Accessories,4,30000,POS,20.0,Delivered,2.0
+ORD1347,2025-01-19,Ifeoma Okon,Port Harcourt,Wristwatch,Accessories,1,30000,Transfer,25.0,Delivered,4.0
+ORD1348,2025-10-27,Blessing Bello,Port Harcourt,Smartphone,Electronics,1,220000,Cash,54.0,Cancelled,3.0
+ORD1349,2025-08-10,Chidi Obi,Uyo,Smartphone,Electronics,4,220000,Card,34.0,Cancelled,3.0
+ORD1350,2025-12-24,Tunde Udoh,Abuja,Desk,Furniture,1,85000,Cash,46.0,Delivered,5.0
+ORD1351,2025-10-20,Samuel Udoh,Abuja,Laptop,Electronics,5,450000,Card,44.0,Delivered,3.0
+ORD1352,2025-12-18,Ngozi Effiong,Port Harcourt,Headphones,Electronics,1,18000,Card,43.0,Delivered,5.0
+ORD1353,2025-03-29,Peter Effiong,Port Harcourt,Office Chair,Furniture,4,65000,Transfer,37.0,Delivered,5.0
+ORD1354,2025-04-16,Tunde Udoh,Calabar,Wristwatch,Accessories,5,30000,Transfer,40.0,Delivered,4.0
+ORD1355,2025-11-07,Aisha Etim,Uyo,Wristwatch,Accessories,3,30000,Cash,56.0,Delivered,5.0
+ORD1356,31/03/2025,Ngozi Okon,Lagos,Smartphone,Electronics,1,220000,Transfer,63.0,Delivered,4.0
+ORD1357,2025-01-21,Samuel Effiong,Port Harcourt,Backpack,Accessories,5,15000,Card,30.0,Delivered,4.0
+ORD1358,2025-09-02,Samuel Adeyemi, Lagos ,Laptop,Electronics,1,450000,Transfer,49.0,Delivered,3.0
+ORD1359,2025-10-20,Chidi Nwosu,Uyo,Pen Pack,Stationery,3,1200,Transfer,63.0,Delivered,5.0
+ORD1360,2025-12-20,Emeka Okon,Lagos,Backpack,Accessories,5,15000,Cash,18.0,Pending,4.0
+ORD1361,2025-12-05,Samuel Okon,Port Harcourt,Backpack,Accessories,4,15000,Cash,54.0,Pending,3.0
+ORD1362,2025-02-13,Ibrahim Johnson,Lagos,Headphones,Electronics,1,18000,Card,41.0,Delivered,5.0
+ORD1363,2025-10-09,Peter Nwosu,Uyo,Backpack,Accessories,5,15000,Cash,63.0,Delivered,5.0
+ORD1364,2025-11-05,Blessing Bello,Port Harcourt,Smartphone,Electronics,1,220000,Cash,45.0,Delivered,4.0
+ORD1365,2025-09-12,Joy Effiong,Lagos,Desk,Furniture,4,85000,POS,57.0,Delivered,
+ORD1366,2025-10-27,Samuel Effiong,Uyo,Office Chair,Furniture,4,65000,Cash,25.0,Delivered,3.0
+ORD1367,2025-11-02,Ngozi Johnson,Uyo,Power Bank,Electronics,2,12000,POS,24.0,Pending,5.0
+ORD1368,2025-06-12,Ibrahim Bello,Uyo,Laptop,Electronics,3,450000,Card,61.0,Pending,3.0
+ORD1369,2025-01-15,Ada Udoh,Port Harcourt,Pen Pack,Stationery,1,1200,Cash,42.0,Pending,3.0
+ORD1370,2025-06-16,Blessing Okon,Uyo,Power Bank,Electronics,5,12000,Card,44.0,Pending,3.0
+ORD1371,2025-03-15,Blessing Okafor,Calabar,Notebook,Stationery,2,1500,Card,25.0,Cancelled,4.0
+ORD1372,2025-02-11,Ifeoma Obi,Port Harcourt,Office Chair,Furniture,2,65000,POS,28.0,Delivered,4.0
+ORD1373,2025-02-15,Peter Adeyemi,Abuja,Power Bank,Electronics,3,12000,Transfer,56.0,Cancelled,4.0
+ORD1374,2025-09-12,Daniel Okon,Enugu,Backpack,Accessories,4,15000,Cash,32.0,Delivered,3.0
+ORD1375,2025-07-04,Peter Effiong,Uyo,Laptop,Electronics,3,450000,Cash,45.0,Delivered,3.0
+ORD1376,2025-07-17,Grace Adeyemi,Lagos,Pen Pack,Stationery,3,1200,Cash,32.0,Delivered,4.0
+ORD1377,2025-09-29,Grace Eze,Calabar,Pen Pack,Stationery,3,1200,Card,30.0,Delivered,2.0
+ORD1378,2025-07-20,Aisha Musa,Lagos,Power Bank,Electronics,5,12000,Card,,Delivered,5.0
+ORD1379,2025-08-18,Ibrahim Nwosu,Port Harcourt,Headphones,Electronics,2,18000,Card,,Delivered,5.0
+ORD1380,2025-02-01,Chidi Adeyemi,Port Harcourt,Laptop,Electronics,5,450000,POS,62.0,Delivered,4.0
+ORD1381,2025-11-07,Ada Musa,Uyo,Wristwatch,Accessories,4,30000,Card,23.0,Delivered,5.0
+ORD1382,2025-06-13,Grace Obi,Lagos,Wristwatch,Accessories,5,30000,Cash,34.0,Pending,2.0
+ORD1383,2025-02-26,Ibrahim Etim,Enugu,Headphones,Electronics,5,18000,Transfer,44.0,Delivered,
+ORD1384,2025-10-24,Ada Udoh,Enugu,Laptop,Electronics,4,450000,Card,,Delivered,5.0
+ORD1385,2025-09-26,Aisha Adeyemi,Uyo,Smartphone,Electronics,2,220000,Transfer,51.0,Delivered,5.0
+ORD1386,2025-01-20,Chidi Adeyemi,Abuja,Laptop,Electronics,4,450000,Card,30.0,Delivered,5.0
+ORD1387,2025-03-12,Joy Bello,Port Harcourt,Backpack,Accessories,4,15000,Card,20.0,Delivered,2.0
+ORD1388,2025-01-06,Aisha Bello,Calabar,Backpack,Accessories,2,15000,Card,33.0,Pending,5.0
+ORD1389,2025-04-09,Aisha Okon,Uyo,Smartphone,Electronics,4,220000,POS,46.0,Delivered,4.0
+ORD1390,2025-02-06,Ada Adeyemi,Calabar,Pen Pack,Stationery,2,1200,Cash,26.0,Delivered,
+ORD1391,2025-09-17,Ada Obi,Abuja,Smartphone,Electronics,3,220000,POS,56.0,Delivered,3.0
+ORD1392,2025-07-10,Joy Udoh,Uyo,Power Bank,Electronics,4,12000,Transfer,18.0,Delivered,5.0
+ORD1393,2025-12-24,Ifeoma Bello,Uyo,Desk,Furniture,1,85000,Card,21.0,Pending,2.0
+ORD1394,2025-10-01,Blessing Johnson,Abuja,Pen Pack,Stationery,2,1200,Cash,41.0,Delivered,
+ORD1395,2025-08-12,Grace Effiong,Uyo,Backpack,Accessories,4,15000,POS,42.0,Pending,
+ORD1396,2025-07-05,Aisha Eze,Lagos,Laptop,Electronics,3,450000,Cash,31.0,Delivered,5.0
+ORD1397,2025-01-20,Blessing Udoh,Calabar,Smartphone,Electronics,5,220000,Card,30.0,Delivered,5.0
+ORD1398,2025-01-26,Peter Udoh,Lagos,Headphones,Electronics,1,18000,Transfer,21.0,Delivered,5.0
+ORD1399,2025-08-13,Blessing Nwosu,Port Harcourt,Power Bank,Electronics,4,12000,POS,49.0,Pending,3.0
+ORD1400,2025-01-02,Ada Etim,Port Harcourt,Wristwatch,Accessories,5,30000,Cash,35.0,Cancelled,1.0
+ORD1401,2025-01-16,Blessing Eze,Uyo,Pen Pack,Stationery,5,1200,POS,23.0,Delivered,4.0
+ORD1402,2025-03-21,Emeka Okafor,Enugu,Power Bank,Electronics,1,12000,Cash,36.0,Pending,4.0
+ORD1403,2025-11-19,Ada Etim,Port Harcourt,Wristwatch,Accessories,5,30000,Card,62.0,Delivered,2.0
+ORD1404,2025-06-17,Emeka Obi,Uyo,Office Chair,Furniture,2,65000,POS,30.0,Delivered,3.0
+ORD1405,2025-09-16,Tunde Musa,Port Harcourt,Desk,Furniture,2,85000,POS,60.0,Cancelled,4.0
+ORD1406,2025-05-31,Samuel Etim,Enugu,Office Chair,Furniture,2,65000,Cash,30.0,Delivered,2.0
+ORD1407,2025-03-05,Ngozi Bello,Uyo,Smartphone,Electronics,4,220000,POS,26.0,Delivered,
+ORD1408,2025-05-16,Tunde Eze,Calabar,Wristwatch,Accessories,4,30000,Card,30.0,Delivered,5.0
+ORD1409,2025-02-03,Emeka Eze,Abuja,Laptop,Electronics,3,450000,POS,33.0,Delivered,4.0
+ORD1410,2025-10-09,Aisha Johnson,Abuja,Smartphone,Electronics,1,220000,Card,,Pending,5.0
+ORD1411,2025-03-08,Aisha Effiong,Enugu,Headphones,Electronics,5,18000,POS,45.0,Delivered,5.0
+ORD1412,2025-05-18,Joy Effiong,Abuja,Headphones,Electronics,2,18000,Card,33.0,Delivered,3.0
+ORD1413,2025-12-24,Emeka Obi,Calabar,Smartphone,Electronics,1,220000,Cash,51.0,Delivered,5.0
+ORD1414,2025-08-05,Grace Obi,Uyo,Laptop,Electronics,3,450000,POS,41.0,Delivered,4.0
+ORD1415,17/06/2025,Aisha Obi,Abuja,Notebook,Stationery,3,1500,Card,38.0,Pending,5.0
+ORD1416,2025-07-18,Grace Okafor,Lagos,Wristwatch,Accessories,4,30000,Card,40.0,Pending,2.0
+ORD1417,2025-10-14,Chidi Bello,Lagos,Smartphone,Electronics,5,220000,POS,25.0,Delivered,3.0
+ORD1418,2025-04-03,Peter Eze,calabar,Headphones,Electronics,1,18000,Card,51.0,Delivered,2.0
+ORD1419,2025-08-21,Tunde Nwosu,Enugu,Desk,Furniture,2,85000,Cash,22.0,Delivered,4.0
+ORD1420,2025-11-15,Chidi Bello,Abuja,Wristwatch,Accessories,3,30000,POS,51.0,Delivered,5.0
+ORD1421,28/07/2025,Daniel Effiong,Port Harcourt,Notebook,Stationery,4,1500,Cash,64.0,Delivered,5.0
+ORD1422,2025-06-12,Joy Musa,Port Harcourt,Pen Pack,Stationery,4,1200,Transfer,53.0,Delivered,5.0
+ORD1423,2025-02-22,Chidi Nwosu,PORT HARCOURT,Desk,Furniture,2,85000,Transfer,39.0,Delivered,5.0
+ORD1424,2025-04-01,Ibrahim Bello,Port Harcourt,Office Chair,Furniture,4,65000,Cash,32.0,Delivered,5.0
+ORD1425,2025-12-12,Emeka Eze,Port Harcourt,Smartphone,Electronics,5,220000,Cash,59.0,Delivered,9.0
+ORD1426,2025-07-17,Blessing Bello,Uyo,Backpack,Accessories,3,15000,Cash,30.0,Delivered,5.0
+ORD1427,2025-04-20,Emeka Effiong,Uyo,Backpack,Accessories,5,15000,Card,40.0,Pending,4.0
+ORD1428,2025-06-02,Chidi Musa,Abuja,Laptop,Electronics,4,450000,Cash,54.0,Delivered,1.0
+ORD1429,2025-07-30,Ibrahim Okon,Port Harcourt,Pen Pack,Stationery,2,1200,Cash,61.0,Delivered,4.0
+ORD1430,2025-07-16,Joy Eze,Calabar,Laptop,Electronics,2,450000,Cash,61.0,Pending,
+ORD1431,2025-09-13,Daniel Adeyemi,Lagos,Pen Pack,Stationery,4,1200,Card,22.0,Pending,3.0
+ORD1432,2025-04-04,Daniel Adeyemi,uyo,Backpack,Accessories,2,15000,Cash,60.0,Delivered,4.0
+ORD1433,2025-08-25,Emeka Johnson,Uyo,Smartphone,Electronics,2,220000,Cash,23.0,Delivered,3.0
+ORD1434,2025-06-11,Ada Johnson,Uyo,Office Chair,Furniture,2,65000,,45.0,Delivered,2.0
+ORD1435,2025-12-10,Ada Udoh,Enugu,Smartphone,Electronics,4,220000,POS,61.0,Delivered,2.0
+ORD1436,2025-02-27,Grace Obi,Uyo,Desk,Furniture,2,85000,Cash,48.0,Delivered,
+ORD1437,2025-02-24,Chidi Bello,Lagos,Wristwatch,Accessories,4,30000,Transfer,62.0,Delivered,
+ORD1438,2025-06-18,Tunde Effiong,Calabar,Laptop,Electronics,5,450000,Cash,34.0,Delivered,3.0
+ORD1439,2025-07-05,Joy Bello,Enugu,Power Bank,Electronics,5,12000,Cash,32.0,Delivered,3.0
+ORD1440,2025-09-10,Chidi Eze,Uyo,Wristwatch,Accessories,5,30000,,33.0,Cancelled,3.0
+ORD1441,2025-05-28,Ifeoma Effiong,Uyo,Power Bank,Electronics,1,12000,Transfer,34.0,Delivered,1.0
+ORD1442,2025-11-30,Grace Udoh,Uyo,Smartphone,Electronics,3,220000,POS,,Pending,4.0
+ORD1443,2025-06-23,Samuel Adeyemi,Uyo,Office Chair,Furniture,2,65000,POS,39.0,Cancelled,5.0
+ORD1444,2025-02-17,Ada Etim,Uyo,Desk,Furniture,5,85000,Card,52.0,Pending,4.0
+ORD1445,2025-02-13,Ifeoma Udoh,Lagos,Notebook,Stationery,4,1500,Cash,37.0,Delivered,4.0
+ORD1446,2025-12-22,Ngozi Okon,Calabar,Power Bank,Electronics,2,12000,Card,32.0,Pending,4.0
+ORD1447,2025-02-18,Emeka Effiong,Lagos,Wristwatch,Accessories,3,30000,Transfer,26.0,Delivered,2.0
+ORD1448,2025-12-12,Grace Effiong,Lagos,Desk,Furniture,4,85000,POS,,Delivered,3.0
+ORD1449,2025-04-12,Joy Adeyemi,Uyo,Headphones,Electronics,3,18000,Card,60.0,Pending,5.0
+ORD1450,2025-02-04,Ibrahim Nwosu,Abuja,Wristwatch,Accessories,3,30000,Transfer,58.0,Delivered,
+ORD1451,2025-04-22,Joy Udoh,Lagos,Wristwatch,Accessories,1,30000,Card,29.0,Delivered,5.0
+ORD1452,2025-08-13,Aisha Udoh,Calabar,Office Chair,Furniture,3,65000,Cash,40.0,Delivered,5.0
+ORD1453,2025-06-06,Aisha Bello,Calabar,Laptop,Electronics,2,450000,Transfer,51.0,Pending,4.0
+ORD1454,2025-10-14,Ada Obi,Port Harcourt,Desk,Furniture,5,85000,Cash,46.0,Delivered,
+ORD1455,2025-08-12,Emeka Effiong,Uyo,Desk,Furniture,5,85000,POS,21.0,Delivered,4.0
+ORD1456,2025-05-27,Ada Johnson,UYO,Smartphone,Electronics,4,220000,Cash,45.0,Pending,1.0
+ORD1457,2025-08-20,Aisha Nwosu,Port Harcourt,Notebook,Stationery,1,1500,Cash,19.0,Delivered,2.0
+ORD1458,2025-12-21,Tunde Etim,Calabar,Backpack,Accessories,5,15000,Card,23.0,Delivered,
+ORD1459,2025-05-31,Blessing Nwosu,Port Harcourt,Smartphone,Electronics,2,220000,Card,48.0,Delivered,2.0
+ORD1460,2025-02-26,Chidi Nwosu,Abuja,Pen Pack,Stationery,3,1200,POS,22.0,Cancelled,4.0
+ORD1461,2025-05-30,Daniel Etim,Lagos,Smartphone,Electronics,5,220000,POS,33.0,Delivered,5.0
+ORD1462,2025-11-03,Chidi Bello,Uyo,Pen Pack,Stationery,5,1200,Cash,45.0,Delivered,0.0
+ORD1463,2025-03-21,Chidi Bello,Port Harcourt,Office Chair,Furniture,1,65000,Transfer,48.0,Delivered,
+ORD1464,2025-12-13,Ifeoma Obi,Lagos,Laptop,Electronics,2,450000,Card,38.0,Pending,3.0
+ORD1465,2025-08-03,Emeka Etim,Lagos,Wristwatch,Accessories,4,30000,POS,22.0,Delivered,5.0
+ORD1466,2025-08-08,Daniel Obi,Port Harcourt,Smartphone,Electronics,3,220000,POS,55.0,Delivered,4.0
+ORD1467,2025-04-26,Ifeoma Bello,Uyo,Desk,Furniture,2,85000,Card,62.0,Cancelled,1.0
+ORD1468,2025-12-02,Chidi Nwosu,Abuja,Smartphone,Electronics,3,220000,Cash,59.0,Delivered,
+ORD1469,2025-01-14,Peter Udoh,Uyo,Wristwatch,Accessories,5,30000,Cash,53.0,Delivered,4.0
+ORD1470,2025-04-20,Ifeoma Eze,Calabar,Pen Pack,Stationery,2,1200,Transfer,36.0,Delivered,3.0
+ORD1471,2025-06-02,Ngozi Okafor,Uyo,Backpack,Accessories,4,15000,POS,59.0,Pending,5.0
+ORD1472,2025-06-24,Chidi Bello,Uyo,Office Chair,Furniture,4,65000,Card,40.0,Delivered,5.0
+ORD1473,2025-06-23,Ifeoma Obi,Port Harcourt,Office Chair,Furniture,5,65000,Transfer,,Delivered,
+ORD1474,2025-02-23,Ada Eze,Lagos,Notebook,Stationery,2,1500,Card,57.0,Delivered,3.0
+ORD1475,2025-03-24,Ngozi Musa,Lagos,Pen Pack,Stationery,2,1200,Cash,33.0,Delivered,5.0
+ORD1476,2025-02-04,Emeka Etim,Port Harcourt,Backpack,Accessories,3,15000,Cash,62.0,Delivered,
+ORD1477,2025-07-28,Peter Adeyemi,Enugu,Laptop,Electronics,3,450000,POS,35.0,Delivered,3.0
+ORD1478,2025-05-09,Ibrahim Nwosu,Port Harcourt,Notebook,Stationery,3,1500,Cash,58.0,Delivered,4.0
+ORD1479,2025-07-26,Samuel Udoh,Port Harcourt,Smartphone,Electronics,4,220000,Card,43.0,Pending,4.0
+ORD1480,2025-08-04,Daniel Obi,Port Harcourt,Headphones,Electronics,4,18000,Transfer,39.0,Delivered,4.0
+ORD1481,2025-09-14,Emeka Johnson,Uyo,Backpack,Accessories,2,15000,Card,31.0,Delivered,2.0
+ORD1482,2025-07-19,Daniel Okon,Lagos,Headphones,Electronics,4,18000,Cash,57.0,Delivered,4.0
+ORD1483,2025-08-25,Chidi Etim,Uyo,Pen Pack,Stationery,2,1200,Cash,20.0,Delivered,2.0
+ORD1484,2025-08-03,Daniel Bello,Lagos,Office Chair,Furniture,3,65000,POS,,Delivered,3.0
+ORD1485,2025-08-27,Daniel Obi,Uyo,Headphones,Electronics,1,18000,Transfer,35.0,Delivered,3.0
+ORD1486,2025-08-14,Samuel Adeyemi,Enugu,Power Bank,Electronics,2,12000,Transfer,43.0,Delivered,5.0
+ORD1487,2025-04-26,Ibrahim Okafor,Port Harcourt,Desk,Furniture,5,85000,Card,29.0,Delivered,3.0
+ORD1488,2025-03-31,Peter Adeyemi,Calabar,Pen Pack,Stationery,3,1200,Transfer,49.0,Delivered,4.0
+ORD1489,2025-10-15,Ada Johnson,Port Harcourt,Notebook,Stationery,4,1500,Transfer,36.0,Delivered,4.0
+ORD1490,2025-05-06,Samuel Musa,Uyo,Wristwatch,Accessories,1,30000,POS,26.0,Delivered,5.0
+ORD1491,2025-07-20,Ada Johnson,Abuja,Backpack,Accessories,4,15000,POS,27.0,Pending,4.0
+ORD1492,2025-03-13,Grace Johnson,Lagos,Pen Pack,Stationery,2,1200,Card,50.0,Delivered,5.0
+ORD1493,2025-06-07,Daniel Udoh,Abuja,Notebook,Stationery,4,1500,Transfer,,Delivered,3.0
+ORD1494,2025-07-13,Ifeoma Obi,Port Harcourt,Headphones,Electronics,5,18000,Cash,32.0,Delivered,2.0
+ORD1495,2025-08-17,Ibrahim Etim,Lagos,Office Chair,Furniture,3,65000,Transfer,47.0,Delivered,4.0
+ORD1496,2025-07-12,Aisha Musa, Calabar ,Smartphone,Electronics,1,220000,Card,33.0,Delivered,4.0
+ORD1497,2025-05-12,Joy Okafor,Lagos,Power Bank,Electronics,3,12000,POS,36.0,Delivered,5.0
+ORD1498,2025-12-18,Ibrahim Obi,Port Harcourt,Wristwatch,Accessories,1,30000,Cash,29.0,Delivered,5.0
+ORD1499,2025-07-07,Tunde Eze,Lagos,Office Chair,Furniture,3,65000,Cash,34.0,Delivered,4.0
+ORD1304,2025-09-27,Tunde Bello,Abuja,Desk,Furniture,1,85000,Card,49.0,Delivered,4.0
+ORD1340,16/04/2025,Peter Okafor,Uyo,Notebook,Stationery,3,1500,POS,20.0,Delivered,5.0
+ORD1047,2025-08-04,Aisha Okafor,Abuja,Backpack,Accessories,4,15000,POS,29.0,Delivered,4.0
+ORD1067,2025-04-02,Grace Okafor,Lagos,Power Bank,Electronics,4,12000,Card,37.0,Delivered,4.0
+ORD1479,2025-07-26,Samuel Udoh,Port Harcourt,Smartphone,Electronics,4,220000,Card,43.0,Pending,4.0
+ORD1485,2025-08-27,Daniel Obi,Uyo,Headphones,Electronics,1,18000,Transfer,35.0,Delivered,3.0
+ORD1310,2025-01-17,Tunde Okafor, Port Harcourt ,Notebook,Stationery,3,1500,Card,42.0,Delivered,4.0
+ORD1031,2025-03-02,Ifeoma Okon,Abuja,Headphones,Electronics,2,18000,Card,,Delivered,
+ORD1249,2025-02-27,Blessing Effiong,Calabar,Laptop,Electronics,2,450000,POS,35.0,Delivered,2.0
+ORD1090,2025-10-20,Grace Obi,Uyo,Office Chair,Furniture,2,65000,Card,52.0,Delivered,5.0
+ORD1322,2025-02-19,Emeka Eze,Uyo,Notebook,Stationery,4,1500,Cash,39.0,Delivered,5.0
+ORD1168,2025-12-02,Grace Eze,Abuja,Power Bank,Electronics,5,12000,Transfer,41.0,Delivered,
